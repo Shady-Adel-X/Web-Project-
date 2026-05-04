@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Web-Project-/static/css/main.cc973965.css",
-    "main.js": "/Web-Project-/static/js/main.aef0c516.js",
-    "static/js/453.561a5237.chunk.js": "/Web-Project-/static/js/453.561a5237.chunk.js",
+    "main.css": "/Web-Project-/static/css/main.a82e7c84.css",
+    "main.js": "/Web-Project-/static/js/main.d06dd742.js",
+    "static/js/453.80bcb094.chunk.js": "/Web-Project-/static/js/453.80bcb094.chunk.js",
     "static/media/header-img.png": "/Web-Project-/static/media/header-img.8168939cb70becb5ae24.png",
     "static/media/logo.png": "/Web-Project-/static/media/logo.8168939cb70becb5ae24.png",
     "static/media/nav-icon1.png": "/Web-Project-/static/media/nav-icon1.8168939cb70becb5ae24.png",
     "static/media/nav-icon2.png": "/Web-Project-/static/media/nav-icon2.8168939cb70becb5ae24.png",
     "static/media/nav-icon3.png": "/Web-Project-/static/media/nav-icon3.8168939cb70becb5ae24.png",
+    "static/media/CV.pdf": "/Web-Project-/static/media/CV.c264f8325b6de23a7ace.pdf",
     "static/media/color-sharp2.png": "/Web-Project-/static/media/color-sharp2.94482e8731f714e566e1.png",
     "static/media/color-sharp.png": "/Web-Project-/static/media/color-sharp.7c6b7f680578bf411f0a.png",
     "static/media/meter1.png": "/Web-Project-/static/media/meter1.45788218173d0704de38.png",
@@ -15,17 +16,18 @@
     "static/media/meter3.png": "/Web-Project-/static/media/meter3.f4bffa5b36f8d9ff8a23.png",
     "static/media/project-img2.png": "/Web-Project-/static/media/project-img2.08680bfef22b7a8a3b16.png",
     "static/media/project-img1.png": "/Web-Project-/static/media/project-img1.51cc5b33b06e6fa1635a.png",
+    "static/media/contact-img.png": "/Web-Project-/static/media/contact-img.a44e6b8ec33d523df274.png",
     "static/media/project-img3.png": "/Web-Project-/static/media/project-img3.a44e6b8ec33d523df274.png",
     "static/media/revicons.eot": "/Web-Project-/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/Web-Project-/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/Web-Project-/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Web-Project-/index.html",
-    "main.cc973965.css.map": "/Web-Project-/static/css/main.cc973965.css.map",
-    "main.aef0c516.js.map": "/Web-Project-/static/js/main.aef0c516.js.map",
-    "453.561a5237.chunk.js.map": "/Web-Project-/static/js/453.561a5237.chunk.js.map"
+    "main.a82e7c84.css.map": "/Web-Project-/static/css/main.a82e7c84.css.map",
+    "main.d06dd742.js.map": "/Web-Project-/static/js/main.d06dd742.js.map",
+    "453.80bcb094.chunk.js.map": "/Web-Project-/static/js/453.80bcb094.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc973965.css",
-    "static/js/main.aef0c516.js"
+    "static/css/main.a82e7c84.css",
+    "static/js/main.d06dd742.js"
   ]
 }
